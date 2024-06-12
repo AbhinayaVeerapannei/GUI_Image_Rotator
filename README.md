@@ -30,5 +30,5 @@ This Python script allows you to rotate an image by a specified angle using the 
 
 ## Example
 
-![Original and Output Image](path/to/your/image.png "Original and Output Image")
+![Original and Output Image](example_output.png "Original and Output Image")
 
