@@ -43,7 +43,7 @@ This project automates the process of web scraping over **8000+ drugs** with det
 ### **Steps to Run**
 1. **Clone the Repository**
    ```bash
-   git clone <repository-link>
+   !git clone <repository-link>
    cd <repository-folder>
    ```
 2. **Install Required Libraries**
@@ -76,5 +76,3 @@ This project automates the process of web scraping over **8000+ drugs** with det
 - Python Official Documentation: [https://python.org](https://python.org)
 
 ---
-**Contributors**: [Your Name]  
-**Contact**: [Your Email]
