@@ -46,7 +46,7 @@ The script extracts data for drugs listed alphabetically (A-Z) on the target web
 
    **Example:**
    ```python
-   extractor.run(start_letter='B', end_letter='Z', start_index=150)
+   extractor.run(start_letter='B', end_letter='Z', start_index=50)
    ```
 
 3. **Internet Connectivity:**
