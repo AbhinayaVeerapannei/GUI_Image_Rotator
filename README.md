@@ -75,4 +75,3 @@ This project automates the process of web scraping over **8000+ drugs** with det
 - Selenium Documentation: [https://selenium.dev/](https://selenium.dev/)
 - Python Official Documentation: [https://python.org](https://python.org)
 
----
