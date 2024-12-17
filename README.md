@@ -20,7 +20,7 @@ The script extracts data for drugs listed alphabetically (A-Z) on the target web
 
 1. **Customizable Extraction:**
    ```python
-   extractor.run(start_letter='A', end_letter='Z', start_index=249)
+   extractor.run(start_letter='A', end_letter='Z', start_index=1)
    ```
    - `start_letter` - Set the starting alphabet to scrape drugs (e.g., 'A', 'J', etc.).
    - `end_letter` - Set the ending alphabet.
