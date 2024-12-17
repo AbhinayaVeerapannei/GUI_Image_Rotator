@@ -2,7 +2,7 @@
 
 This project automates the process of web scraping over **8000+ drugs** with details like **Drug Name**, **Generic Name**, **Dosage**, **Package**, and other attributes from a **Medicare website** using **Selenium** and **Firefox WebDriver**.
 
----
+
 ## **Project Overview**
 - **Purpose**: Automate drug data scraping to collect and store information in a CSV file.
 - **Language**: Python
@@ -17,7 +17,7 @@ This project automates the process of web scraping over **8000+ drugs** with det
   - `Frequency`
   - `Quantity`
 
----
+
 ## **Code Process**
 1. **Setup**:
    - Uses Selenium WebDriver with Firefox for automated scraping.
@@ -31,7 +31,7 @@ This project automates the process of web scraping over **8000+ drugs** with det
 4. **Data Storage**:
    - All scraped data is stored in a CSV file for future use.
 
----
+
 ## **How to Run the Code**
 
 ### **Requirements**
@@ -59,18 +59,17 @@ This project automates the process of web scraping over **8000+ drugs** with det
 4. **Output**
    - A CSV file (e.g., `scraped_drug_data.csv`) will be created with all the scraped drug details.
 
----
+
 ## **Important Notes**
 - Ensure that the **Firefox browser** is installed and up-to-date.
 - If the Medicare website is inaccessible, re-run the script after some time.
 - The scraping process may take a few hours depending on the total number of records.
 
----
+
 ## **Output File**
 - The project generates a CSV file with the scraped drug details.
 - **Sample File**: `scraped_drug_data.csv` (attached for reference).
 
----
 ## **References**
 - Selenium Documentation: [https://selenium.dev/](https://selenium.dev/)
 - Python Official Documentation: [https://python.org](https://python.org)
